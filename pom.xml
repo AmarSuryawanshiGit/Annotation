@@ -30,6 +30,10 @@
 		<java.version>23</java.version>
 	</properties>
 	<dependencies>
+	<dependency>
+			<groupId>oerrg.sprirttngframegfgwork.boofdt</groupId>
+			<artifactId>sphdhring-bodgot-stadggddrter-dgweb</artifactId>
+		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
